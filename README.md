@@ -13,6 +13,6 @@ About me :
 - 🔭 I’m working at anflash company as backend developer 
 - 🌱 I’m learning php , js , and dart (flutter) 
 - 💬 If you want , you can ask me about c# , dart , and maybe ican help with php and js 
-- 📫 Contact me at : hieucg.anflash.com or caogiahieu99@gmail.com.
+- 📫 Contact me at : hieucg.anflash@gmail.com or caogiahieu99@gmail.com.
 - ⚡ Fun fact: I'm really lazy and im started as moblie developer not backend 
 
