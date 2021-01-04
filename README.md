@@ -1,5 +1,6 @@
 ### Hiiiiiiiiiii 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaoGiaHieu-dev)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **CaoGiaHieu-dev/CaoGiaHieu-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
