@@ -1,9 +1,9 @@
 ### Hello 👋
 ### Here's something about me and what i'm doing
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoGiaHieu-dev&hide=Assembly&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaoGiaHieu-dev&hide=Assembly,RTF&count_private=true&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaoGiaHieu-dev&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaoGiaHieu-dev&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CaoGiaHieu-dev)](https://github.com/anuraghazra/github-readme-stats)
 -->
