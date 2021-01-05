@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **caogiahieu99@gmail.com or hieucg.anflash@gmail.com**
 
-- ⚡ Fun fact **I very lazy**
+- ⚡ Fun fact **I'm very lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
