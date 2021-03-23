@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **dart,c# or maybe php and js**
 
-- 📫 How to reach me **caogiahieu99@gmail.com or hieucg.anflash@gmail.com**
+- 📫 How to reach me **caogiahieu99@gmail.com **
 
 - ⚡ Fun fact **I'm very lazy**
 
