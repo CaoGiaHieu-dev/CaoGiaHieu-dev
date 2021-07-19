@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=caogiahieu-dev" alt="caogiahieu-dev" /></a> </p>
 
-- 🌱 I’m currently learning **laravel , flutter , Angular**
+- 🌱 I’m currently working on **laravel , flutter , Angular**
 
 - 💬 Ask me about **dart,c# or maybe php and js**
 
