@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">A passionate on moblie developer from Việt Nam</h3>
 
+
 - 🌱 I’m currently working on **Flutter**
 
-- 📫 How to reach me **caogiahieu99@gmail.com **
+  - 📫 Currently im looking for new opportunity position in Ho Chi Minh City- Viet Nam
+  -  How to reach me **caogiahieu99@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
