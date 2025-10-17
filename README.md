@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently working on **Flutter**
 
-  - 📫 Currently im looking for new opportunity position in Ho Chi Minh City- Viet Nam
   -  How to reach me **caogiahieu99@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
